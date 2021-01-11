@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Pirulino se pego una borrachera
 Use the left arrow to go back!
